@@ -25,7 +25,7 @@
         "url": "https://github.com/wkoutre/react-native-pulse-view/issues"
     },
     "homepage": "https://github.com/wkoutre/react-native-pulse-view#readme",
-    "devDependencies": {
+    "peerDependencies": {
         "prop-types": "^15.6.0"
     }
 }
