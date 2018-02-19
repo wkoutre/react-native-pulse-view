@@ -1,13 +1,12 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { StyleSheet, Animated } from "react-native";
-import Colors from "../../assets/Colors";
 
 const localStyles = StyleSheet.create({
   defaultContainer: {
     position: "absolute",
     alignSelf: "center",
-    backgroundColor: Colors.black
+    backgroundColor: "black"
   }
 });
 

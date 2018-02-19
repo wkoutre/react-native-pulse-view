@@ -24,5 +24,8 @@
     "bugs": {
         "url": "https://github.com/wkoutre/react-native-pulse-view/issues"
     },
-    "homepage": "https://github.com/wkoutre/react-native-pulse-view#readme"
+    "homepage": "https://github.com/wkoutre/react-native-pulse-view#readme",
+    "devDependencies": {
+        "prop-types": "^15.6.0"
+    }
 }
