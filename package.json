@@ -1,0 +1,28 @@
+{
+    "name": "react-native-pulse-view",
+    "version": "1.0.0",
+    "description": "React Native Animated pulsing view component",
+    "main": "Pulse.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wkoutre/react-native-pulse-view.git"
+    },
+    "keywords": [
+        "react",
+        "react-component",
+        "react-native-component",
+        "animated",
+        "react-native",
+        "animation",
+        "ui",
+        "pulse",
+        "pulsing"
+    ],
+    "author": "Nick Koutrelakos <wkoutre@gmail.com>",
+    "license": "MIT",
+    "private": false,
+    "bugs": {
+        "url": "https://github.com/wkoutre/react-native-pulse-view/issues"
+    },
+    "homepage": "https://github.com/wkoutre/react-native-pulse-view#readme"
+}
